@@ -1,5 +1,5 @@
 {
-    "name" : "treinando-unit-tests-php",
+    "name" : "treinando/unit-tests-php",
     "require": {
         "guzzlehttp/guzzle": "~6.0"
     },
